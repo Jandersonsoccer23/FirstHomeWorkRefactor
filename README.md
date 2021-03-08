@@ -14,7 +14,8 @@
 - The Original funtionality of the program is intact, sans a none functioning link
 - Nav bar is fully functioning
 - Webpage is more accessible to page readers and thusly optimized
-![Screenshot of functioning program.](.\assets\images\screenshot1.png)
+
+![Screenshot of functioning program](/assets/images/screenshot1.png)
 
 
 
