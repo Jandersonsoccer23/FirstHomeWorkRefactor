@@ -2,42 +2,19 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- To Increase Accessibility Changes were made to the existing code
+- HTML elements and CSS selectors were changed
+- Code is much more organized as well more accessible to search engines
+
 
 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-(assets/images/screenshot2.png)
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    
-    (assets/images/screenshota.png)
-    (./assets/images/screenshota.png)
+![Screenshot of functioning program.](Develop\assets\images\screenshot1.png)
 
 
-
-    ```md
-    ![Application Screenshot](assets/images/screenshot2.png)
-    ```
-
-    
-    ```md
-    ![Application screenshot](assets/images/screenshot3.png)
-    ```
-
-    
-    ```md
-    ![application screenshot](assets/images/screenshot4.png)
-    ```
 
 ## License
 
